@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+fooddey
+</name>
+</assembly>
+<members>
+<member name="T:fooddey.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.back_icon_back_icon_without_background_115534421835ua8uvskeg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.back_icon_back_icon_without_background_115534421835ua8uvskeg_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.table_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_4_26_47_PM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_4_26_47_PM__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_36_PM_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_37_PM__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_37_PM__1__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_37_PM__1__removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_37_PM__2__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_38_PM__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_38_PM__1__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_38_PM_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_39_PM__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_39_PM__1__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_39_PM__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_39_PM__2__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_17_39_PM_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_171">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_21_36_PM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_35_41_PM__1__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_6_35_41_PM_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_7_28_53_PM_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_7_28_55_PM__1__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_7_28_55_PM__1__removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:fooddey.My.Resources.Resources.WhatsApp_Image_2024_10_12_at_7_28_55_PM_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

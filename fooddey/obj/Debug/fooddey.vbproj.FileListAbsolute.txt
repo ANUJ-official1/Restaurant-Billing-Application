@@ -1,0 +1,43 @@
+C:\Users\Windows 10\source\repos\fooddey\fooddey\bin\Debug\fooddey.exe.config
+C:\Users\Windows 10\source\repos\fooddey\fooddey\bin\Debug\fooddey.exe
+C:\Users\Windows 10\source\repos\fooddey\fooddey\bin\Debug\fooddey.pdb
+C:\Users\Windows 10\source\repos\fooddey\fooddey\bin\Debug\fooddey.xml
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.vbproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.Form1.resources
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.loginform.resources
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.Menuform.resources
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.Resources.resources
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.vbproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.vbproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.exe
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.xml
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.pdb
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.Tableorder.resources
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.Takeaway.resources
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.SaleReport.resources
+C:\Users\Windows 10\source\repos\fooddey\fooddey\bin\Debug\Database1.mdf
+C:\Users\Windows 10\source\repos\fooddey\fooddey\bin\Debug\Database1_log.ldf
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.Form7.resources
+C:\Users\Windows 10\source\repos\fooddey\fooddey\obj\Debug\fooddey.Form8.resources
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.exe.config
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.exe
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.xml
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.pdb
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\bin\Debug\Database1.mdf
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\bin\Debug\Database1_log.ldf
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\bin\Debug\fooddey.exe.config
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\bin\Debug\fooddey.exe
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\bin\Debug\fooddey.pdb
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\bin\Debug\fooddey.xml
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.form1.resources
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.loginform.resources
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.Menuform.resources
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.Tableorder.resources
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.Takeaway.resources
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.SaleReport.resources
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.Form7.resources
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.Form8.resources
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.Resources.resources
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\fooddey\fooddey\fooddey\obj\Debug\fooddey.vbproj.CoreCompileInputs.cache
